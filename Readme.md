@@ -32,7 +32,7 @@
 $ git clone https://github.com/ericviinny/gofinances.git
 
 # Entrando na pasta do projeto
-$ cd rentx
+$ cd gofinances
 ```
 
 <p><b>Instale as dependências nescessárias</b></p>
