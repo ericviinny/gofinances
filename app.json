@@ -1,0 +1,20 @@
+{
+  "name": "gofinances",
+  "displayName": "gofinances",
+  "expo": {
+    "name": "gofinances",
+    "slug": "gofinances",
+    "scheme": "gofinances",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5636D3"
+    },
+    "description": ""
+  }
+}
