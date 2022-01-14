@@ -1,4 +1,4 @@
-<h1 align="center"><img alt="GoFinances" title="GoFinances" src="https://github.com/ericviinny/gofinances/blob/main/assets/icon.png" style="max-width:100%;"></h1>
+<h1 align="center"><img alt="GoFinances" title="GoFinances" src="https://github.com/ericviinny/gofinances/blob/main/assets/icon.png" style="max-width:50%;"></h1>
 <p align="center">Projeto desenvolvido durante o curso Ignite trilha de Reac Native <a href="https://rocketseat">RocketSeat 🚀 💜</a>.</p>
 
 <h2><b>💡 Sobre o Projeto</b></h2>
